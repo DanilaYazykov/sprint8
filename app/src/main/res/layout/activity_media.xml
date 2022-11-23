@@ -13,4 +13,5 @@
         android:gravity="center"
         android:text="@string/mediaActivityWords"/>
 
+
 </FrameLayout>

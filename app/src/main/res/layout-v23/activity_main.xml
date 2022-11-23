@@ -18,7 +18,6 @@
         android:textStyle="bold"
         android:textSize="22sp" />
 
-
     <Button
         android:id="@+id/search"
         android:layout_width="match_parent"
